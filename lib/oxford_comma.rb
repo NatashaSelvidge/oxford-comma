@@ -16,6 +16,5 @@ def oxford_comma(array)
   
 
 
- # array << ["durian"].join("and")
-  #return array
-#else
+ # prepend vs. include  - it will insert it at the bottom of the chain.
+
