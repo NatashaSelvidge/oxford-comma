@@ -15,6 +15,6 @@ def oxford_comma(array)
   
   
 
-
+# Push "and" to be the second to last element in the array
  # prepend vs. include  - it will insert it at the bottom of the chain.
 
